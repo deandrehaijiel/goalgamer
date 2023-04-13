@@ -1,4 +1,4 @@
-# goalgamer
+# GoalGamer
 
 Introducing GoalGamer - the ultimate productivity app that will help you stay on top of your goals and stay motivated!
 
