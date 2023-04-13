@@ -1,21 +1,21 @@
 # GoalGamer
 
-Introducing GoalGamer - the ultimate productivity app that will help you stay on top of your goals and stay motivated!
+🚀 Introducing GoalGamer - the ultimate productivity app that will help you stay on top of your goals and stay motivated! 💪
 
 Features:
 
-• ChatGPT with gpt-3.5-turbo to chat with an AI language model and stay productive and motivated
-• To-do list and Done list to keep track of your tasks and accomplishments
-• Analytics on your overall Done list to visualize your progress and stay motivated
-• Weather information to help you plan your day
-• Inspiring quotes to keep you motivated
-• Query stock charts and prices to stay on top of the market
-• Top 100 cryptocurrencies with prices and charts to stay informed
-• Currency conversion
+• 💬 ChatGPT with gpt-3.5-turbo to chat with an AI language model and stay productive and motivated
+• 📝 To-do list and Done list to keep track of your tasks and accomplishments
+• 📊 Analytics on your overall Done list to visualize your progress and stay motivated
+• 🌤️ Weather information to help you plan your day
+• 🧠 Inspiring quotes to keep you motivated
+• 📈 Query stock charts and prices to stay on top of the market
+• 💰 Top 100 cryptocurrencies with prices and charts to stay informed
+• 💱 Currency conversion
 
-This app is perfect for anyone looking to stay on top of their goals and stay motivated. With a variety of features to help you stay productive and informed, GoalGamer is the ultimate productivity tool. And because it's open source and available on GitHub, you can customize it to fit your unique needs. Try it out today and take your productivity to the next level!
+This app is perfect for anyone looking to stay on top of their goals and stay motivated. With a variety of features to help you stay productive and informed, GoalGamer is the ultimate productivity tool. And because it's open source and available on GitHub, you can customize it to fit your unique needs. Try it out today and take your productivity to the next level! 👍
 
-Note: The ChatGPT feature requires the ChatGPT API, the weather feature requires the Weather API, the stock charts feature requires the Finnhub API, the stock prices feature requires the Alpha Vantage API, and the currency conversion feature requires the Exchange Rates API.
+Note: The ChatGPT feature requires the ChatGPT API, the weather feature requires the Weather API, the stock charts feature requires the Finnhub API, the stock prices feature requires the Alpha Vantage API, and the currency conversion feature requires the Exchange Rates API. 📡
 
 ## Instructions
 
