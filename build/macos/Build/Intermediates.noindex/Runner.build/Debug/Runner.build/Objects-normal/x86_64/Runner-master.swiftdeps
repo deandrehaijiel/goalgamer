@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ecc8cb2d5d9395f3d5a0544feb45d3b2b69ed0a2c5036ba9b452b5a1be12cb4c"
+build_start_time: [1681357076, 805752038]
+build_end_time: [1681357086, 907308101]
+inputs:
+  "/Users/DeAndre/goalgamer/goalgamer/macos/Flutter/GeneratedPluginRegistrant.swift": [1681357028, 490586280]
+  "/Users/DeAndre/goalgamer/goalgamer/macos/Runner/AppDelegate.swift": [1654880026, 0]
+  "/Users/DeAndre/goalgamer/goalgamer/macos/Runner/MainFlutterWindow.swift": [1654880026, 0]

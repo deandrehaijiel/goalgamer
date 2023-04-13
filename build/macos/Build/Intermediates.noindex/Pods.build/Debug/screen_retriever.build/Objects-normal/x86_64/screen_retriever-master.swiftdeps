@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "f524eac3e540bab2b42d533360cc876a87ade4eafae3bed1042a748f2991e882"
+build_start_time: [1681357039, 413126945]
+build_end_time: [1681357055, 203970909]
+inputs:
+  "/Users/DeAndre/.pub-cache/hosted/pub.dev/screen_retriever-0.1.6/macos/Classes/ScreenRetrieverPlugin.swift": [1679743664, 632505893]
